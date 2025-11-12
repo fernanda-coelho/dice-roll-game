@@ -23,7 +23,7 @@ Projeto proposto pelo curso _Ultimate C# Masterclass_.
 ## ▶️ Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/fernanda-coelho/DiceRollGame.git/
+   git clone https://github.com/fernanda-coelho/dice-roll-game.git
 2. Acesse a pasta do projeto:
    ```bash
    cd DiceRollGame

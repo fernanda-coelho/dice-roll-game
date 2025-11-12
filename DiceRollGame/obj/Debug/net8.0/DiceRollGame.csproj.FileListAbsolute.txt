@@ -1,0 +1,14 @@
+D:\Repos\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+D:\Repos\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+D:\Repos\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+D:\Repos\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+D:\Repos\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+D:\Repos\DiceRollGame\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
